@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idPBLoading" type="id" />
+    <item name="search" type="id" />
+    <item name="idRVCourse" type="id" />
+</resources>
