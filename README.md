@@ -1,6 +1,7 @@
 # Phone-Directory-App
 ### This app helps to view the details of all staff in different categories using API 
 ##### Phone directory that app will give to access the person’s contact number makes to contact them
+To access the app, go the apk folder and download the .apk file on the phone to access.
 
 ## Functionalities:
 
